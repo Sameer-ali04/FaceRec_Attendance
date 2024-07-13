@@ -22,15 +22,26 @@ it will create .csv file of attendance according to time & subject.
 You can store data in database (install wampserver),change the DB name according to your in AMS_Run.py.
 Manually Fill Attendance Button in UI is to fill attendance manually(without face recognition),it creates a .csv and stores in a database.
 Screenshots
+
 Homepage
+
 ![homepage](https://github.com/user-attachments/assets/610fc171-5a20-4a7a-be6d-08c41cd5a636)
+
+
 GUI
+
+
+![GUI](https://github.com/user-attachments/assets/fb9c4c97-3b57-4b8c-bc68-fc64cac85289)
 
 
 Checking students list
 
+![StudentList](https://github.com/user-attachments/assets/81ca964d-0d43-46fe-86ea-34f416477d19)
+
 
 Model Trained message
+
+![trainedPopup](https://github.com/user-attachments/assets/178f8f52-6932-44f4-af5b-8c33458a6df4)
 
 
 Note:
