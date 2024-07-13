@@ -23,8 +23,7 @@ You can store data in database (install wampserver),change the DB name according
 Manually Fill Attendance Button in UI is to fill attendance manually(without face recognition),it creates a .csv and stores in a database.
 Screenshots
 Homepage
-
-
+![homepage](https://github.com/user-attachments/assets/610fc171-5a20-4a7a-be6d-08c41cd5a636)
 GUI
 
 
